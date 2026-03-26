@@ -21,11 +21,11 @@ title-block: false
 
 I am currently a graduate student at [Columbia University]{.highlight}.
 
-Previously, I studied at [Shanghai University of Finance and Economics]{.highlight}, majoring in finance.
+Previously, I studied Finance at [Shanghai University of Finance and Economics]{.highlight}.
 
-Professionally, I have multiple internship experiences in hedge funds.
+My professional interests lie in understanding and modeling complex financial markets, where extracting meaningful signals from noisy data is a central challenge. I focus in particular on volatility, derivatives, and systematic trading strategies.
 
-Separately I am interested in Formula 1 and Basketball.
+Outside my academic and professional work, I enjoy Formula 1, basketball, and traveling.
 :::
 
 ::: {.about-image-wrap}
